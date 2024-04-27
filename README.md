@@ -6,3 +6,6 @@
   <li>Sue Sampson</li>
 </ul>
 Building a biography site
+<ol>
+ <li><a href = bioSite_index.html">Assignment 6.3</a></li>
+</ol>
